@@ -80,6 +80,8 @@ Logic symbol & Truthtable
 RTL realization
 Output:
 RTL
+![image](https://user-images.githubusercontent.com/123469171/214312618-3cf6c21a-993a-4682-9431-212c06233cb2.png)
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
